@@ -130,42 +130,7 @@ Para que exista el control en un sistema, debe haber: *
 - [ ] Un objeto, ente o factor, un subsistema controlador; un observador o detector que se encargue de revisar las señales que se reciban de la variable controlada; un componente comparador que examine la discrepancia entre el valor actual de la variable controlada y lo deseado; una reacción a lo comparado  
 Un objeto, ente o factor, un subsistema controlador; algo que se necesite controlar en el objeto (variable por controlar en el objeto); un observador o detector que se encargue de revisar las señales que se reciban de la variable controlada; una reacción a lo comparado
 
-1.  Todo sistema es sinérgico en tanto el examen de sus partes en forma aislada no puede explicar o predecir su comportamiento. La sinergia es, en consecuencia, un fenómeno que surge de las interacciones entre las partes o componentes de un sistema * 0}
 
--   [x] Cierto
--   [] Falso
-
-2.  Los modelos de simulación constan de los siguientes componentes: entidades del sistema, variables de entrada, medidas de rendimiento, párrafos explicativos y relaciones funcionales *
-
- Cierto
--   [x] Falso
-
-3.  El valor de consigna o predefinido (Set Point) es el valor deseado de la variable manipulada al cual el sistema (planta) se debe encargar de mantener igual o cerca al valor de la variable de proceso. *
-
--   [x] Cierto
--   [] Falso
-
-4.  Un experimento de simulación es una prueba o una serie de pruebas en que cambios significativos se realizan en las variables de entrada de un modelo de simulación para que podamos observar e identificar las razones de los cambios en las medidas de desempeño. El número de experimentos en un estudio de simulación es mayor o igual al número de preguntas que se hacen sobre el modelo. * 0}
-
--   [x] Cierto
--   [] Falso
-
-5.  El controlador proporcional entrega una potencia que varía en forma gradual entre 0 y 100% según se requiera y en forma proporcional al error E = PV + SP. *
-
--   [x] Cierto
--   Falso
-
-6.  El sistema abierto es aquel que interactúa con su ambiente. Todos los sistemas que contienen organismos vivos son abiertos, porque en ellos influye lo que es percibido por los organismos. En un sentido más importante, las organizaciones o empresas suelen ser sistemas que operan dentro de otros más extensos y, por lo mismo, son abiertos. *
- 
--   [x] Cierto
--   [ ] Falso
-
-7.  En general, siempre que sea necesario modelar y analizar la aleatoriedad en un sistema, la simulación es la herramienta de elección. Más específicamente, las situaciones en las que se utilizan modelos de simulación incluyen las siguientes: (a) es imposible o extremadamente costoso observar ciertos procesos en el mundo real (por ejemplo, las estadísticas de cáncer del próximo año, el desempeño del próximo lanzamiento del transbordador espacial de SpaceX, y el efecto de la publicidad en Internet en las ventas de una empresa); (b) problemas en los que el modelo matemático puede ser formulado, pero las soluciones analíticas son imposibles (por ejemplo, problema de programación de la planta de producción de una industria, ecuaciones diferenciales demasiado complicadas, sistemas complejos como el mercado de valores y modelos de cola a gran escala); (c) es imposible o extremadamente costoso validar el modelo matemático que describe el sistema (por ejemplo, debido a datos insuficientes). *
-
--   Cierto
--   [] Falso
-
-8.  El control integral presenta el problema de que el valor de la variable del proceso jamás se estabilizará justo en el valor de consigna. En la práctica se estaciona siempre en un punto dentro de la banda integral, produciendo así el "error estacionario". *
 
 -   [] Cierto
 1. Todo sistema es sinérgico en tanto el examen de sus partes en forma aislada no puede explicar o
